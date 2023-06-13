@@ -1,0 +1,1922 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Lawyer Theme\n"
+"POT-Creation-Date: 2016-09-25 15:55+0700\n"
+"PO-Revision-Date: 2016-02-06 10:39+0700\n"
+"Last-Translator: SecretLab <support@secretlab.pw>\n"
+"Language-Team: SecretLab <support@secretlab.pw>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: functions\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPath-2: woocommerce\n"
+"X-Poedit-SearchPath-3: 404.php\n"
+"X-Poedit-SearchPath-4: archive.php\n"
+"X-Poedit-SearchPath-5: archive-cases.php\n"
+"X-Poedit-SearchPath-6: archive-service.php\n"
+"X-Poedit-SearchPath-7: archive-teammate.php\n"
+"X-Poedit-SearchPath-8: archive-testimonial.php\n"
+"X-Poedit-SearchPath-9: author.php\n"
+"X-Poedit-SearchPath-10: author-bio.php\n"
+"X-Poedit-SearchPath-11: auxillary.php\n"
+"X-Poedit-SearchPath-12: category.php\n"
+"X-Poedit-SearchPath-13: comments.php\n"
+"X-Poedit-SearchPath-14: content.php\n"
+"X-Poedit-SearchPath-15: content-audio.php\n"
+"X-Poedit-SearchPath-16: content-gallery.php\n"
+"X-Poedit-SearchPath-17: content-image.php\n"
+"X-Poedit-SearchPath-18: content-link.php\n"
+"X-Poedit-SearchPath-19: content-none.php\n"
+"X-Poedit-SearchPath-20: content-quote.php\n"
+"X-Poedit-SearchPath-21: content-video.php\n"
+"X-Poedit-SearchPath-22: footer.php\n"
+"X-Poedit-SearchPath-23: functions.php\n"
+"X-Poedit-SearchPath-24: header.php\n"
+"X-Poedit-SearchPath-25: header1.php\n"
+"X-Poedit-SearchPath-26: header2.php\n"
+"X-Poedit-SearchPath-27: header3.php\n"
+"X-Poedit-SearchPath-28: header4.php\n"
+"X-Poedit-SearchPath-29: image.php\n"
+"X-Poedit-SearchPath-30: index.php\n"
+"X-Poedit-SearchPath-31: page.php\n"
+"X-Poedit-SearchPath-32: page-head1.php\n"
+"X-Poedit-SearchPath-33: page-head2.php\n"
+"X-Poedit-SearchPath-34: page-head3.php\n"
+"X-Poedit-SearchPath-35: page-head4.php\n"
+"X-Poedit-SearchPath-36: page-no-header-footer.php\n"
+"X-Poedit-SearchPath-37: search.php\n"
+"X-Poedit-SearchPath-38: single.php\n"
+"X-Poedit-SearchPath-39: single-cases.php\n"
+"X-Poedit-SearchPath-40: single-service.php\n"
+"X-Poedit-SearchPath-41: single-teammate.php\n"
+"X-Poedit-SearchPath-42: single-testimonial.php\n"
+"X-Poedit-SearchPath-43: tag.php\n"
+"X-Poedit-SearchPath-44: taxonomy-post_format.php\n"
+"X-Poedit-SearchPath-45: woocommerce.php\n"
+
+#: 404.php:12
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:19
+msgid "Sorry! Page not found!"
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:15
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:21
+msgid "Archives"
+msgstr ""
+
+#: author-bio.php:22
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: author-bio.php:26 functions/blog.php:136
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: author.php:25
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: auxillary.php:199 functions/blog.php:134
+msgid "by"
+msgstr ""
+
+#: auxillary.php:200
+msgid "View all posts by "
+msgstr ""
+
+#: auxillary.php:205 functions/blog.php:143
+msgid ", "
+msgstr ""
+
+#: auxillary.php:209 functions/blog.php:147
+msgid "in"
+msgstr ""
+
+#: auxillary.php:227
+msgid "comments"
+msgstr ""
+
+#: auxillary.php:232 functions/blog.php:163
+msgid "Leave a comment"
+msgstr ""
+
+#: auxillary.php:280 functions/blog.php:106
+msgid "Continue reading"
+msgstr ""
+
+#: comments.php:45
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: content-audio.php:16 content-audio.php:44 content-gallery.php:18
+#: content-gallery.php:43 content-image.php:16 content-image.php:47
+#: content-link.php:15 content-link.php:43 content-quote.php:16
+#: content-quote.php:44 content-video.php:16 content-video.php:41
+#: content.php:17 content.php:45 image.php:40 page-head1.php:60
+#: page-head2.php:60 page-head3.php:60 page-head4.php:60
+#: page-no-header-footer.php:39 page.php:23 single-cases.php:39
+#: single-service.php:26 single-testimonial.php:33
+msgid "Edit"
+msgstr ""
+
+#: content-audio.php:61 content-gallery.php:60 content-link.php:60
+#: content-quote.php:61 content-video.php:58 content.php:63
+msgid "Continue reading "
+msgstr ""
+
+#: content-audio.php:65 content-gallery.php:64 content-image.php:66
+#: content-link.php:64 content-quote.php:65 content-video.php:62 content.php:67
+#: image.php:66 page-head1.php:57 page-head2.php:57 page-head3.php:57
+#: page-head4.php:57 page-no-header-footer.php:35 page.php:20
+#: single-cases.php:35 single-service.php:22
+msgid "Pages:"
+msgstr ""
+
+#: content-image.php:62
+#, php-format
+msgid "Continue reading %s "
+msgstr ""
+
+#: content-none.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:14
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: content-none.php:14
+msgid "Get started here."
+msgstr ""
+
+#: content-none.php:18
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: content-none.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: functions.php:39
+msgid "Welcome"
+msgstr ""
+
+#: functions.php:118 functions.php:148
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:173
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:175
+msgid "Appears in the left section of the site."
+msgstr ""
+
+#: functions.php:183
+msgid "Bottom Sidebar"
+msgstr ""
+
+#: functions.php:185
+msgid "Appears on posts and pages in the footer."
+msgstr ""
+
+#: functions.php:192
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:194
+msgid "Appears in the right section of the site."
+msgstr ""
+
+#: functions.php:201
+msgid "Left Blog Sidebar"
+msgstr ""
+
+#: functions.php:203
+msgid "Appears in the left blog section of the site."
+msgstr ""
+
+#: functions.php:210
+msgid "Right Blog Sidebar"
+msgstr ""
+
+#: functions.php:212
+msgid "Appears in the right blog section of the site."
+msgstr ""
+
+#: functions.php:219
+msgid "Left Shop Sidebar"
+msgstr ""
+
+#: functions.php:221 functions.php:230
+msgid "Appears in the left shop section of the site."
+msgstr ""
+
+#: functions.php:228
+msgid "Right Shop Sidebar"
+msgstr ""
+
+#: functions.php:237
+msgid "Bottoms Sidebars: 1 of 4"
+msgstr ""
+
+#: functions.php:239 functions.php:248 functions.php:257 functions.php:266
+msgid "Appears in the bottom section. There are 4 sidebars"
+msgstr ""
+
+#: functions.php:246
+msgid "Bottoms Sidebars: 2 of 4"
+msgstr ""
+
+#: functions.php:255
+msgid "Bottoms Sidebars: 3 of 4"
+msgstr ""
+
+#: functions.php:264
+msgid "Bottoms Sidebars: 4 of 4"
+msgstr ""
+
+#: functions.php:273
+msgid "Bottom Sidebar for Design #2"
+msgstr ""
+
+#: functions.php:275
+msgid "Displays in the footer."
+msgstr ""
+
+#: functions/blog.php:93
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions/blog.php:163
+msgid "1 Comment"
+msgstr ""
+
+#: functions/blog.php:163
+msgid "% Comments"
+msgstr ""
+
+#: functions/blog.php:269
+msgid "Tags"
+msgstr ""
+
+#: functions/footer.php:182 functions/header.php:235
+msgid "The Lawyer WordPress Theme"
+msgstr ""
+
+#: functions/functions.php:138
+msgid "Featured Image"
+msgstr ""
+
+#: functions/layout.php:64
+msgid "Older posts"
+msgstr ""
+
+#: functions/layout.php:68
+msgid "Newer posts"
+msgstr ""
+
+#: functions/woocommerce.php:41
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/woocommerce.php:48
+msgid "Cart Totals"
+msgstr ""
+
+#: functions/woocommerce.php:51
+msgid "View cart"
+msgstr ""
+
+#: image.php:18
+msgid "Published on"
+msgstr ""
+
+#: image.php:18
+msgid "Return to"
+msgstr ""
+
+#: image.php:34
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:35
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:47
+msgid "Previous"
+msgstr ""
+
+#: image.php:48
+msgid "Next"
+msgstr ""
+
+#: inc/back-compat.php:36 inc/back-compat.php:46 inc/back-compat.php:59
+#, php-format
+msgid "The Lawyer requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334 inc/plugins-list.php:134
+#: inc/plugins-list_f.php:46
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335 inc/plugins-list.php:135
+#: inc/plugins-list_f.php:47
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:337 inc/plugins-list.php:136
+#: inc/plugins-list_f.php:48
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340 inc/plugins-list.php:137
+#: inc/plugins-list_f.php:49
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392 inc/plugins-list.php:148
+#: inc/plugins-list_f.php:60
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:906
+#: inc/class-tgm-plugin-activation.php:2612
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3238 inc/plugins-list.php:149
+#: inc/plugins-list_f.php:61
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3031
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:596
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:597
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1013
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1013
+#: inc/class-tgm-plugin-activation.php:1016
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1016
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2352
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2355
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2371
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2374
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2394
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2398
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2409
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2471
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2475
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2479
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2569
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2577
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2589
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2612
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2626
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2627
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2628
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2682
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2687
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2763
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2796
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2805
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2836
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2838
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2879
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2881
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2987
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3013
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3237
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3577
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3580
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3582
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3586
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3588
+#: inc/class-tgm-plugin-activation.php:3596
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3588
+#: inc/class-tgm-plugin-activation.php:3596
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3589
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3597
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/config.php:96
+msgid "The Theme Support Layer Slider and Slider Revolution, but couldn't find it. Install one of the plug-ins to choose the slider to display in the header."
+msgstr ""
+
+#: inc/config.php:146
+msgid "Theme Options"
+msgstr ""
+
+#: inc/config.php:147
+msgid "The Lawyer Theme Options"
+msgstr ""
+
+#: inc/config.php:204
+msgid "Developed with love by www.SecretLab.pw"
+msgstr ""
+
+#: inc/config.php:252
+msgid "Documentation"
+msgstr ""
+
+#: inc/config.php:258 inc/welcome_page.php:196
+msgid "Support"
+msgstr ""
+
+#: inc/config.php:264
+msgid "SecretLab"
+msgstr ""
+
+#: inc/config.php:269
+msgid "Support Panel: "
+msgstr ""
+
+#: inc/config.php:281
+msgid "General Setting"
+msgstr ""
+
+#: inc/config.php:288
+msgid "Company Name"
+msgstr ""
+
+#: inc/config.php:289
+msgid "For any section about company."
+msgstr ""
+
+#: inc/config.php:296
+msgid "Frontpage Setting"
+msgstr ""
+
+#: inc/config.php:297
+msgid "Select which page to display on your Frontpage. If left blank the Blog will be displayed"
+msgstr ""
+
+#: inc/config.php:304
+msgid "Logo for Header 1 and 4"
+msgstr ""
+
+#: inc/config.php:305 inc/config.php:315
+msgid "Recommended size - height 50-55px, width 150-400px"
+msgstr ""
+
+#: inc/config.php:313
+msgid "Dark Logo for Header 2"
+msgstr ""
+
+#: inc/config.php:323
+msgid "Logo for Header 3"
+msgstr ""
+
+#: inc/config.php:324 inc/config.php:333
+msgid "Recommended size - height 50-100px, width 150-400px"
+msgstr ""
+
+#: inc/config.php:332
+msgid "Logo for Footer"
+msgstr ""
+
+#: inc/config.php:341
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: inc/config.php:342
+msgid "Recomended size - 144 x 144px"
+msgstr ""
+
+#: inc/config.php:350
+msgid "Favicon"
+msgstr ""
+
+#: inc/config.php:351
+msgid "Upload your favicon"
+msgstr ""
+
+#: inc/config.php:360
+msgid "Display Page Loader"
+msgstr ""
+
+#: inc/config.php:361
+msgid "Do you want to show page loader, when website is loading?"
+msgstr ""
+
+#: inc/config.php:368
+msgid "Icon for Page Loader"
+msgstr ""
+
+#: inc/config.php:369
+msgid "Upload your icon. It displays, when page is loading"
+msgstr ""
+
+#: inc/config.php:378
+msgid "Choose Background Color for Page Loader"
+msgstr ""
+
+#: inc/config.php:394
+msgid "Contacts &amp; Map"
+msgstr ""
+
+#: inc/config.php:401
+msgid "Phone Number"
+msgstr ""
+
+#: inc/config.php:402
+msgid "One number per one field"
+msgstr ""
+
+#: inc/config.php:412
+msgid "E-mail"
+msgstr ""
+
+#: inc/config.php:413
+msgid "One e-mail per one field"
+msgstr ""
+
+#: inc/config.php:414
+msgid "For any section about company"
+msgstr ""
+
+#: inc/config.php:425
+msgid "Business Hours"
+msgstr ""
+
+#: inc/config.php:431
+msgid "Office Address"
+msgstr ""
+
+#: inc/config.php:437
+msgid "Text for Phone at header #8"
+msgstr ""
+
+#: inc/config.php:443
+msgid "Text for Business Hours at header #8"
+msgstr ""
+
+#: inc/config.php:449
+msgid "Text for Office Address at header #8"
+msgstr ""
+
+#: inc/config.php:460
+msgid "Social"
+msgstr ""
+
+#: inc/config.php:467
+msgid "Display social buttons"
+msgstr ""
+
+#: inc/config.php:479
+msgid "Facebook"
+msgstr ""
+
+#: inc/config.php:480
+msgid "type here link to your facebook profile or page"
+msgstr ""
+
+#: inc/config.php:488
+msgid "Twitter"
+msgstr ""
+
+#: inc/config.php:489
+msgid "type here link to your twitter profile"
+msgstr ""
+
+#: inc/config.php:496
+msgid "MySpace"
+msgstr ""
+
+#: inc/config.php:497
+msgid "type here link to your MySpace profile"
+msgstr ""
+
+#: inc/config.php:503
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/config.php:504
+msgid "type here link to your LinkedIn profile"
+msgstr ""
+
+#: inc/config.php:511
+msgid "Google+"
+msgstr ""
+
+#: inc/config.php:512
+msgid "type here link to your Google+ profile or page"
+msgstr ""
+
+#: inc/config.php:519
+msgid "Tumblr"
+msgstr ""
+
+#: inc/config.php:520
+msgid "type here link to your Tumblr"
+msgstr ""
+
+#: inc/config.php:526
+msgid "Pinterest"
+msgstr ""
+
+#: inc/config.php:527
+msgid "type here link to your Pinterest"
+msgstr ""
+
+#: inc/config.php:533
+msgid "YouTube"
+msgstr ""
+
+#: inc/config.php:534
+msgid "type here link to your YouTube"
+msgstr ""
+
+#: inc/config.php:540
+msgid "Instagram"
+msgstr ""
+
+#: inc/config.php:541
+msgid "type here link to your Instagram"
+msgstr ""
+
+#: inc/config.php:547
+msgid "vk.com"
+msgstr ""
+
+#: inc/config.php:548
+msgid "type here link to your vk.com"
+msgstr ""
+
+#: inc/config.php:554
+msgid "Reddit"
+msgstr ""
+
+#: inc/config.php:555
+msgid "type here link to your Reddit"
+msgstr ""
+
+#: inc/config.php:561
+msgid "Blogger"
+msgstr ""
+
+#: inc/config.php:562
+msgid "type here link to your Blogger"
+msgstr ""
+
+#: inc/config.php:568
+msgid "Wordpress"
+msgstr ""
+
+#: inc/config.php:569
+msgid "type here link to your Wordpress"
+msgstr ""
+
+#: inc/config.php:575
+msgid "Behance"
+msgstr ""
+
+#: inc/config.php:576
+msgid "type here link to your Behance"
+msgstr ""
+
+#: inc/config.php:591
+msgid "Design"
+msgstr ""
+
+#: inc/config.php:593 inc/config.php:1555
+msgid "Design settings for customization."
+msgstr ""
+
+#: inc/config.php:602
+msgid "Layout"
+msgstr ""
+
+#: inc/config.php:609
+msgid "Transition time"
+msgstr ""
+
+#: inc/config.php:610
+msgid "Choose hover effects time in ms"
+msgstr ""
+
+#: inc/config.php:611
+msgid "Slider description. Min: 0, max: 1000, step: 5, default value: 600"
+msgstr ""
+
+#: inc/config.php:622
+msgid "Choose design"
+msgstr ""
+
+#: inc/config.php:623
+msgid "Also you need to set up color scheme"
+msgstr ""
+
+#: inc/config.php:645 inc/config.php:1853
+msgid "Choose page layout"
+msgstr ""
+
+#: inc/config.php:663
+msgid "Choose background color for box"
+msgstr ""
+
+#: inc/config.php:674 inc/config.php:1882
+msgid "Box Background"
+msgstr ""
+
+#: inc/config.php:675 inc/config.php:1884
+msgid "Upload your background for box"
+msgstr ""
+
+#: inc/config.php:685
+msgid "Choose background color for content-section"
+msgstr ""
+
+#: inc/config.php:696 inc/config.php:1906
+msgid "Choose sidebar option"
+msgstr ""
+
+#: inc/config.php:723
+msgid "Header"
+msgstr ""
+
+#: inc/config.php:733 inc/config.php:1657 inc/config.php:2030
+msgid "Note"
+msgstr ""
+
+#: inc/config.php:734
+msgid "Some header required dark version of logo"
+msgstr ""
+
+#: inc/config.php:739
+msgid "Choose header & menu type"
+msgstr ""
+
+#: inc/config.php:773
+msgid "Choose Slider"
+msgstr ""
+
+#: inc/config.php:774 inc/config.php:1836
+msgid "Choose slider for header section"
+msgstr ""
+
+#: inc/config.php:784
+msgid "Topbar Settings"
+msgstr ""
+
+#: inc/config.php:790
+msgid "Show header topbar?"
+msgstr ""
+
+#: inc/config.php:791
+msgid "Topbar with phone number, email and social buttons."
+msgstr ""
+
+#: inc/config.php:797
+msgid "Display search icon in header?"
+msgstr ""
+
+#: inc/config.php:806
+msgid "Display Call-to-Action button on header?"
+msgstr ""
+
+#: inc/config.php:813
+msgid "URL of Button"
+msgstr ""
+
+#: inc/config.php:814
+msgid "URL for Call-to-Action button"
+msgstr ""
+
+#: inc/config.php:821
+msgid "Text of Button"
+msgstr ""
+
+#: inc/config.php:822
+msgid "Text for Call-to-Action button"
+msgstr ""
+
+#: inc/config.php:829
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/config.php:841
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/config.php:853
+msgid "Button Text Color (Color)"
+msgstr ""
+
+#: inc/config.php:865
+msgid "Button Background Color (Color)"
+msgstr ""
+
+#: inc/config.php:887
+msgid "Footer"
+msgstr ""
+
+#: inc/config.php:894
+msgid "Choose type of footer"
+msgstr ""
+
+#: inc/config.php:911
+msgid "Display social buttons on the footer?"
+msgstr ""
+
+#: inc/config.php:918
+msgid "Display address section on the footer?"
+msgstr ""
+
+#: inc/config.php:925
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/config.php:926
+msgid "For display at footer after \"&copy; \""
+msgstr ""
+
+#: inc/config.php:933
+msgid "Background for footer section"
+msgstr ""
+
+#: inc/config.php:950
+msgid "Menu"
+msgstr ""
+
+#: inc/config.php:957
+msgid "Show Search in Header Menu?"
+msgstr ""
+
+#: inc/config.php:964
+msgid "Use sticky menu?"
+msgstr ""
+
+#: inc/config.php:970
+msgid "Background color for sticky menu on Header 1 and 5"
+msgstr ""
+
+#: inc/config.php:984
+msgid "Background color for sticky menu on Header 2"
+msgstr ""
+
+#: inc/config.php:998
+msgid "Background color for sticky menu on Header 4"
+msgstr ""
+
+#: inc/config.php:1012
+msgid "Background color for sticky menu on Header 5"
+msgstr ""
+
+#: inc/config.php:1026
+msgid "Background color for sticky menu on Header 8"
+msgstr ""
+
+#: inc/config.php:1042
+msgid "Menu Font"
+msgstr ""
+
+#: inc/config.php:1043
+msgid "Specify the menu font properties."
+msgstr ""
+
+#: inc/config.php:1060
+msgid "Colors for menu and topbar for Header 1 and 4"
+msgstr ""
+
+#: inc/config.php:1066 inc/config.php:1145 inc/config.php:1306
+#: inc/config.php:1386
+msgid "Topbar Background Color"
+msgstr ""
+
+#: inc/config.php:1077 inc/config.php:1156 inc/config.php:1317
+#: inc/config.php:1397
+msgid "Text Color for Topbar"
+msgstr ""
+
+#: inc/config.php:1088 inc/config.php:1167 inc/config.php:1328
+#: inc/config.php:1408
+msgid "Background Color for Menu Line"
+msgstr ""
+
+#: inc/config.php:1099 inc/config.php:1178 inc/config.php:1259
+#: inc/config.php:1339 inc/config.php:1419
+msgid "Top Level Links Color"
+msgstr ""
+
+#: inc/config.php:1110 inc/config.php:1189 inc/config.php:1270
+#: inc/config.php:1350 inc/config.php:1430
+msgid "Top Level Links Color (hover)"
+msgstr ""
+
+#: inc/config.php:1121 inc/config.php:1281
+msgid "Top Level Links Background (hover)"
+msgstr ""
+
+#: inc/config.php:1139
+msgid "Colors for menu and topbar for Header 2"
+msgstr ""
+
+#: inc/config.php:1200 inc/config.php:1361 inc/config.php:1441
+msgid "Top Level Links Border (hover)"
+msgstr ""
+
+#: inc/config.php:1219
+msgid "Colors for menu and topbar for Header 3"
+msgstr ""
+
+#: inc/config.php:1226
+msgid "Text Color for phones and menu button"
+msgstr ""
+
+#: inc/config.php:1237
+msgid "Menu Container Background Color"
+msgstr ""
+
+#: inc/config.php:1248
+msgid "Color for Phone and Close Button in Menu Container"
+msgstr ""
+
+#: inc/config.php:1300
+msgid "Colors for menu and topbar for Header 5"
+msgstr ""
+
+#: inc/config.php:1380
+msgid "Colors for menu and topbar for Header 8"
+msgstr ""
+
+#: inc/config.php:1460
+msgid "Custom Post Types"
+msgstr ""
+
+#: inc/config.php:1467
+msgid "Services Columns"
+msgstr ""
+
+#: inc/config.php:1468
+msgid "How many columns do you want to display on Services List page?"
+msgstr ""
+
+#: inc/config.php:1480
+msgid "Services Page H1 Heading"
+msgstr ""
+
+#: inc/config.php:1481
+msgid "Set H1 heading for Services Archive page"
+msgstr ""
+
+#: inc/config.php:1487 inc/config.php:1514 inc/config.php:1529
+#: inc/config.php:1543
+msgid "Description Text Under H1 Heading"
+msgstr ""
+
+#: inc/config.php:1488 inc/config.php:1515 inc/config.php:1530
+#: inc/config.php:1544
+msgid "Allowed tags: a, img, br, em, strong, h1, h2, h3, h4, h5, h6, p, b, i, u, ol, ul, li, code, del"
+msgstr ""
+
+#: inc/config.php:1494
+msgid "Case Studies Columns"
+msgstr ""
+
+#: inc/config.php:1495
+msgid "How many columns do you want to display on Case Studies List page?"
+msgstr ""
+
+#: inc/config.php:1507
+msgid "Case Studies Page H1 Heading"
+msgstr ""
+
+#: inc/config.php:1508
+msgid "Set H1 heading for Case Studies Archive page"
+msgstr ""
+
+#: inc/config.php:1522
+msgid "Teammates Page H1 Heading"
+msgstr ""
+
+#: inc/config.php:1523
+msgid "Set H1 heading for Teammates Archive page"
+msgstr ""
+
+#: inc/config.php:1536
+msgid "Testimonials Page Heading"
+msgstr ""
+
+#: inc/config.php:1537
+msgid "Set H1 heading for Testimonials Archive page"
+msgstr ""
+
+#: inc/config.php:1553
+msgid "Custom"
+msgstr ""
+
+#: inc/config.php:1561
+msgid "Show Scroll to Top Button?"
+msgstr ""
+
+#: inc/config.php:1568
+msgid "Header Section JS, CSS editors"
+msgstr ""
+
+#: inc/config.php:1569 inc/config.php:1606
+msgid "Click On to choice of editors to appear."
+msgstr ""
+
+#: inc/config.php:1575
+msgid "This code will appear in the HEADER secrion of the site"
+msgstr ""
+
+#: inc/config.php:1588 inc/config.php:1625
+msgid "JS Editor"
+msgstr ""
+
+#: inc/config.php:1597 inc/config.php:1634
+msgid "CSS Editor"
+msgstr ""
+
+#: inc/config.php:1605
+msgid "Footer Section JS, CSS editors"
+msgstr ""
+
+#: inc/config.php:1612
+msgid "This code will appear in the FOOTER secrion of the site"
+msgstr ""
+
+#: inc/config.php:1647
+msgid "Typography"
+msgstr ""
+
+#: inc/config.php:1658
+msgid "We recommend to use font pair: one font for body text and one for headings. You can find good font pair on"
+msgstr ""
+
+#: inc/config.php:1663
+msgid "Body Font"
+msgstr ""
+
+#: inc/config.php:1664
+msgid "Specify the body font properties."
+msgstr ""
+
+#: inc/config.php:1679
+msgid "Heading H1 Font"
+msgstr ""
+
+#: inc/config.php:1680
+msgid "Specify the H1 font properties."
+msgstr ""
+
+#: inc/config.php:1698
+msgid "Heading H2 Font"
+msgstr ""
+
+#: inc/config.php:1699
+msgid "Specify the H2 font properties."
+msgstr ""
+
+#: inc/config.php:1716
+msgid "Heading H3 Font"
+msgstr ""
+
+#: inc/config.php:1717
+msgid "Specify the H3 font properties."
+msgstr ""
+
+#: inc/config.php:1734
+msgid "Heading H4 Font"
+msgstr ""
+
+#: inc/config.php:1735
+msgid "Specify the H4 font properties."
+msgstr ""
+
+#: inc/config.php:1752
+msgid "Heading H5 Font"
+msgstr ""
+
+#: inc/config.php:1753
+msgid "Specify the H5 font properties."
+msgstr ""
+
+#: inc/config.php:1770
+msgid "Heading H6 Font"
+msgstr ""
+
+#: inc/config.php:1771
+msgid "Specify the H6 font properties."
+msgstr ""
+
+#: inc/config.php:1795
+msgid "Shop"
+msgstr ""
+
+#: inc/config.php:1802
+msgid "Choose sidebar option for shop"
+msgstr ""
+
+#: inc/config.php:1828
+msgid "Show Cart in Header Menu?"
+msgstr ""
+
+#: inc/config.php:1835
+msgid "Choose Slider for Shop"
+msgstr ""
+
+#: inc/config.php:1846
+msgid "Blog"
+msgstr ""
+
+#: inc/config.php:1854 inc/config.php:1907 inc/config.php:1934
+#: inc/config.php:1952
+msgid "The option work for slug /blog/ and subpages/subcategories"
+msgstr ""
+
+#: inc/config.php:1871
+msgid "Choose background for box"
+msgstr ""
+
+#: inc/config.php:1893
+msgid "color_rgba"
+msgstr ""
+
+#: inc/config.php:1894
+msgid "Choose background color for content section"
+msgstr ""
+
+#: inc/config.php:1895
+msgid "Default - white"
+msgstr ""
+
+#: inc/config.php:1933
+msgid "Blog Columns Option"
+msgstr ""
+
+#: inc/config.php:1951
+msgid "Choose Slider for Blog"
+msgstr ""
+
+#: inc/config.php:1968
+msgid "Related Posts for Single Post View"
+msgstr ""
+
+#: inc/config.php:1969
+msgid "Press On to template choice appear"
+msgstr ""
+
+#: inc/config.php:1975
+msgid "Related Posts Title"
+msgstr ""
+
+#: inc/config.php:1976
+msgid "Set Title for Related Posts section"
+msgstr ""
+
+#: inc/config.php:1983
+msgid "Show Post Author "
+msgstr ""
+
+#: inc/config.php:1989
+msgid "Show Post Category "
+msgstr ""
+
+#: inc/config.php:1995
+msgid "Show Post Tags "
+msgstr ""
+
+#: inc/config.php:2001
+msgid "Show Post Date "
+msgstr ""
+
+#: inc/config.php:2007
+msgid "Show Post Comments count "
+msgstr ""
+
+#: inc/config.php:2018
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/config.php:2020
+msgid "Color scheme of the current design. You can create your own color scheme."
+msgstr ""
+
+#: inc/config.php:2031
+msgid "We recommend to export theme options setting before change everything."
+msgstr ""
+
+#: inc/config.php:2037
+msgid "General Colors"
+msgstr ""
+
+#: inc/config.php:2044
+msgid "Major Color"
+msgstr ""
+
+#: inc/config.php:2055
+msgid "Light Major Color"
+msgstr ""
+
+#: inc/config.php:2066
+msgid "Dark Major Color"
+msgstr ""
+
+#: inc/config.php:2077
+msgid "Semidark Major Color"
+msgstr ""
+
+#: inc/config.php:2088
+msgid "Semitransparent Major Color"
+msgstr ""
+
+#: inc/config.php:2099
+msgid "Second Color"
+msgstr ""
+
+#: inc/config.php:2111
+msgid "Links Color Option"
+msgstr ""
+
+#: inc/config.php:2127
+msgid "Background Color"
+msgstr ""
+
+#: inc/config.php:2146
+msgid "Form and Icon Colors"
+msgstr ""
+
+#: inc/config.php:2152
+msgid "Address Block Background Color"
+msgstr ""
+
+#: inc/config.php:2153
+msgid "Background Color for address block on footer"
+msgstr ""
+
+#: inc/config.php:2164
+msgid "Background Color for hover blocks"
+msgstr ""
+
+#: inc/config.php:2165
+msgid "Overflow background on blog categories, portfolio and services archive pages"
+msgstr ""
+
+#: inc/config.php:2176
+msgid "Eye Icon Color"
+msgstr ""
+
+#: inc/config.php:2177 inc/config.php:2189
+msgid "On portfolio, blog categories and services archive pages"
+msgstr ""
+
+#: inc/config.php:2188
+msgid "Eye Icon Color (hover)"
+msgstr ""
+
+#: inc/config.php:2210
+msgid "Additional Colors"
+msgstr ""
+
+#: inc/config.php:2216
+msgid "Color for Dark Elements"
+msgstr ""
+
+#: inc/config.php:2217
+msgid "Or Light element for dark designs"
+msgstr ""
+
+#: inc/config.php:2228
+msgid "Additional color 2"
+msgstr ""
+
+#: inc/config.php:2229
+msgid "For dots in carousel, gray button, date in blog"
+msgstr ""
+
+#: inc/config.php:2240
+msgid "Additional color 3"
+msgstr ""
+
+#: inc/config.php:2241
+msgid "For checkbox, radiobutton, icons in menu, pagination color, comment meta date, bottom address section"
+msgstr ""
+
+#: inc/config.php:2252
+msgid "Additional color 4"
+msgstr ""
+
+#: inc/config.php:2253
+msgid "For name and text in testimonial carousel "
+msgstr ""
+
+#: inc/config.php:2264
+msgid "Additional color 5"
+msgstr ""
+
+#: inc/config.php:2265
+msgid "For subheadings, border for textfield, tag links, date in recent posts widget "
+msgstr ""
+
+#: inc/config.php:2276
+msgid "Additional color 6"
+msgstr ""
+
+#: inc/config.php:2277
+msgid "For some backgrounds and text on dark backgrounds"
+msgstr ""
+
+#: inc/config.php:2288
+msgid "Additional color 7"
+msgstr ""
+
+#: inc/config.php:2289
+msgid "For some borders"
+msgstr ""
+
+#: inc/config.php:2300
+msgid "Additional color 8"
+msgstr ""
+
+#: inc/config.php:2301
+msgid "For woocommerce product description and text in accordion"
+msgstr ""
+
+#: inc/config.php:2312
+msgid "Additional color 9"
+msgstr ""
+
+#: inc/config.php:2313
+msgid "For discount price in woocommerce"
+msgstr ""
+
+#: inc/plugins-list.php:150 inc/plugins-list_f.php:62
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/welcome_page.php:19
+msgid "Start of atachments import - reading appropriate XML file"
+msgstr ""
+
+#: inc/welcome_page.php:20
+msgid "XML file reading error occured - check its existence"
+msgstr ""
+
+#: inc/welcome_page.php:21
+msgid "Please select a file."
+msgstr ""
+
+#: inc/welcome_page.php:22
+msgid "There were no attachment files found in the import file."
+msgstr ""
+
+#: inc/welcome_page.php:23
+msgid "Parsing the file."
+msgstr ""
+
+#: inc/welcome_page.php:24
+msgid "Importing file "
+msgstr ""
+
+#: inc/welcome_page.php:25
+msgid "Overall progress: "
+msgstr ""
+
+#: inc/welcome_page.php:26
+msgid "An error occured. In 5 seconds, retrying file "
+msgstr ""
+
+#: inc/welcome_page.php:27
+msgid "All done! Go to Theme Options and  click \"Save Changes\" button"
+msgstr ""
+
+#: inc/welcome_page.php:28
+msgid "There was an error connecting to the server."
+msgstr ""
+
+#: inc/welcome_page.php:29
+msgid "The program could not run. Check the error log below or your JavaScript console for more information"
+msgstr ""
+
+#: inc/welcome_page.php:30
+msgid "There was a fatal error. Check the last entry in the error log below."
+msgstr ""
+
+#: inc/welcome_page.php:67
+msgid "Install SecretLab Installer plugin to install the theme"
+msgstr ""
+
+#: inc/welcome_page.php:81
+msgid "Auto Install"
+msgstr ""
+
+#: inc/welcome_page.php:82 inc/welcome_page.php:206
+msgid "Manual Install"
+msgstr ""
+
+#: inc/welcome_page.php:89
+msgid "Welcome to The Lawyer Theme"
+msgstr ""
+
+#: inc/welcome_page.php:92
+msgid "Automatic installation can take 2-8 min"
+msgstr ""
+
+#: inc/welcome_page.php:98
+msgid "Install Theme"
+msgstr ""
+
+#: inc/welcome_page.php:103 inc/welcome_page.php:212
+msgid "Select Theme version"
+msgstr ""
+
+#: inc/welcome_page.php:117
+msgid "Install plugins"
+msgstr ""
+
+#: inc/welcome_page.php:120
+msgid "Activate plugins"
+msgstr ""
+
+#: inc/welcome_page.php:123 inc/welcome_page.php:246
+msgid "Import Widgets"
+msgstr ""
+
+#: inc/welcome_page.php:126
+msgid "Import Theme Options"
+msgstr ""
+
+#: inc/welcome_page.php:129
+msgid "Import Demo Revolution Sliders"
+msgstr ""
+
+#: inc/welcome_page.php:132
+msgid "Do Page Technical Refresh"
+msgstr ""
+
+#: inc/welcome_page.php:135
+msgid "Import Types Plugin Settings"
+msgstr ""
+
+#: inc/welcome_page.php:138 inc/welcome_page.php:236
+msgid "Import Icon Fonts"
+msgstr ""
+
+#: inc/welcome_page.php:141
+msgid "Set Admin Pages Settings"
+msgstr ""
+
+#: inc/welcome_page.php:153
+msgid "Import Data"
+msgstr ""
+
+#: inc/welcome_page.php:158
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/welcome_page.php:161
+msgid "Import attachments"
+msgstr ""
+
+#: inc/welcome_page.php:165
+msgid "Attribute uploaded images to:"
+msgstr ""
+
+#: inc/welcome_page.php:166
+msgid "Current User"
+msgstr ""
+
+#: inc/welcome_page.php:167
+msgid "User in the import file"
+msgstr ""
+
+#: inc/welcome_page.php:168
+msgid "Select User:"
+msgstr ""
+
+#: inc/welcome_page.php:170
+msgid "Delay file requests by at least five seconds."
+msgstr ""
+
+#: inc/welcome_page.php:170
+msgid "This delay can be useful to mitigate hosts that throttle traffic when too many requests are detected from an IP address and mistaken for a DDOS attack."
+msgstr ""
+
+#: inc/welcome_page.php:176
+msgid "Start installation"
+msgstr ""
+
+#: inc/welcome_page.php:180 inc/welcome_page.php:252
+msgid "Log of installation"
+msgstr ""
+
+#: inc/welcome_page.php:197
+msgid "Online documentation"
+msgstr ""
+
+#: inc/welcome_page.php:198
+msgid "Send a Ticket"
+msgstr ""
+
+#: inc/welcome_page.php:207
+msgid "You can use it if you got any error and dont want to wait a solution from server administrator or hosting company."
+msgstr ""
+
+#: inc/welcome_page.php:208
+msgid "Details about manual installations process: "
+msgstr ""
+
+#: inc/welcome_page.php:224
+msgid "Begin installing plugins"
+msgstr ""
+
+#: inc/welcome_page.php:224 inc/welcome_page.php:226 inc/welcome_page.php:230
+#: inc/welcome_page.php:232 inc/welcome_page.php:234 inc/welcome_page.php:236
+#: inc/welcome_page.php:238 inc/welcome_page.php:242 inc/welcome_page.php:244
+#: inc/welcome_page.php:246
+msgid "Do It"
+msgstr ""
+
+#: inc/welcome_page.php:226
+msgid "Begin activating plugins"
+msgstr ""
+
+#: inc/welcome_page.php:228
+msgid "Refresh the page"
+msgstr ""
+
+#: inc/welcome_page.php:230
+msgid "Import Custom Post Types"
+msgstr ""
+
+#: inc/welcome_page.php:232
+msgid "Import Sliders"
+msgstr ""
+
+#: inc/welcome_page.php:234
+msgid "Import Theme Option Set"
+msgstr ""
+
+#: inc/welcome_page.php:238
+msgid "Set Menu and Discussions Checkboxes"
+msgstr ""
+
+#: inc/welcome_page.php:240
+msgid "Theme Setup completed. You can import demo-data, if it necessary"
+msgstr ""
+
+#: inc/welcome_page.php:242
+msgid "Import Dummy Data (Skip it, if you dont need demo-data)"
+msgstr ""
+
+#: inc/welcome_page.php:242
+msgid " If it got error, you can run it again 2-6 times (at slow webhosting) until you get a success message"
+msgstr ""
+
+#: inc/welcome_page.php:244
+msgid "Import Dummy Data Attachments, It can take 5-15 min (Skip it, if you dont need demo-data)"
+msgstr ""
+
+#: inc/welcome_page.php:259
+msgid "It seems you have started Lawyer Theme Install already, now you are trying to change Theme Type to another one. Are you sure?"
+msgstr ""
+
+#: inc/welcome_page.php:260
+msgid "Continue"
+msgstr ""
+
+#: inc/welcome_page.php:261
+msgid "Stop"
+msgstr ""
+
+#: inc/widgets.php:73
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: inc/widgets.php:74
+msgid "Testimonials Carousel Widget"
+msgstr ""
+
+#: inc/widgets.php:145
+msgid "Set title:"
+msgstr ""
+
+#: inc/widgets.php:149
+msgid "Set carousel conteiner class:"
+msgstr ""
+
+#: inc/widgets.php:152
+msgid "Posts to show:"
+msgstr ""
+
+#: inc/widgets.php:156
+msgid "Set autoplay mode:"
+msgstr ""
+
+#: inc/widgets.php:160
+msgid "Set autoplay speed (ms):"
+msgstr ""
+
+#: inc/widgets.php:165
+msgid "navigation arrows on/off:"
+msgstr ""
+
+#: inc/widgets.php:168
+msgid "navigation dots on/off:"
+msgstr ""
+
+#: search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: tag.php:17
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: taxonomy-post_format.php:19
+#, php-format
+msgid "%s Archives"
+msgstr ""
